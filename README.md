@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Ian Ellis 👋
 
 <!--
-**ianellis015/ianellis015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a web developer at digtal nest doing a 1 year internship, and I'm a college student studying 
+Computer Science and Engineering. I love the world of Technology and I'm hoping to work in the AI/Machine learning
+space at some point.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 My skills:
+** javascript, C++, Python, HTML, CSS, React.js.
+
+Current Role:
+** Working at Digital Nest as an intern in Web Devlopment, honing my professional and technical skills in a production environment.
+
+- 🌱 I’m currently learning Calculus, and refining my knowledge of C++ in school.
+
+- ⚡ Fun fact:
+** In my spare time I like to train various Martial arts, some of my favorite are Brazilian Jiu Jitsu, Muay Thai, and boxing.
 -->
