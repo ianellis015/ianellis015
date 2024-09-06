@@ -2,9 +2,7 @@
 
 
 
-## I'm a web developer at Digital Nest doing a 1 year internship, and I'm a college student studying 
-## Computer Science and Engineering. I love the world of Technology and I'm hoping to work in the AI/Machine learning
-## space at some point.
+## I'm a web developer at Digital Nest doing a 1 year internship, and I'm a college student studying Computer Science and Engineering. I love the world of Technology and I'm hoping to work in the AI/Machine learning space at some point.
 
 ## 🔭 My skills:
 -  JavaScript, C++, Python, HTML, CSS, React.js.
