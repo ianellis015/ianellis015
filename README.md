@@ -11,7 +11,5 @@
  Working at Digital Nest as an intern in Web Devlopment, honing my professional and technical skills in a production environment.
 
 ## Currenly learning
-- I’m currently learning Calculus, and refining my knowledge of C++ in school.
+- I’m currently learning how to build full-stack applications, Calculus, and refining my knowledge of C++ in school. 
 
-## ⚡ Fun fact:
-- In my spare time I like to train various Martial arts, some of my favorite are Brazilian Jiu Jitsu, Muay Thai, and boxing.
