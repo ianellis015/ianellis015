@@ -11,5 +11,5 @@
  Working at Digital Nest, completing a year-long internship, where I contribute to building and optimizing web applications.
 
 ## Currenly learning
-- Data Structures and Algorithms, AWS
+- Data Structures and Algorithms, AWS, Java
 
