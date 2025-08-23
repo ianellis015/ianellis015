@@ -9,8 +9,7 @@
 * Backend Engineering
 * Frontend Engineering
 * Database design
-* Languages/Tools
--  JavaScript/TypeScript (React, NodeJS, Express, Vite) | C++ | Python (FastAPI) | PHP | MySQL | HTML5 | CSS3 | Swift/SwiftUI | Docker | CLI/Bash
+* Languages/Tools: JavaScript/TypeScript (React, NodeJS, Express, Vite) | C++ | Python (FastAPI) | PHP | MySQL | HTML5 | CSS3 | Swift/SwiftUI | Docker | CLI/Bash
 
 ## Current Role:
  Senior Web and Software engineering intern at Digital Nest.
