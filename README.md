@@ -8,6 +8,7 @@
 * Mathematics
 * Backend Engineering
 * Frontend Engineering
+* AI powered app development (OpenAI API)
 * Database design
 * Languages/Tools: JavaScript/TypeScript (React, NodeJS, Express, Vite) | C++ | Python (FastAPI) | PHP | MySQL | HTML5 | CSS3 | Swift/SwiftUI | Docker | CLI/Bash | Wordpress
 
