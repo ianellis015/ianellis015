@@ -8,13 +8,12 @@
 * Mathematics
 * Backend Engineering
 * Frontend Engineering
+* REST API
 * AI powered app development (OpenAI API)
 * Database design
 * Languages/Tools: JavaScript/TypeScript (React, NodeJS, Express, Vite) | C++ | Python (FastAPI) | PHP | MySQL | HTML5 | CSS3 | Swift/SwiftUI | Docker | CLI/Bash | Wordpress
 
 ## 👷🏻 Current Role:
- Senior Web and Software Engineering Intern at Digital Nest.
+ Senior Software Engineering Associate at Digital Nest.
 
-## 📚 Currenly learning
-- React Native
 
