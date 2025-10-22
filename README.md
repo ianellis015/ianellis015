@@ -11,7 +11,7 @@
 * REST API
 * AI powered app development (OpenAI API)
 * Database design
-* Languages/Tools: JavaScript/TypeScript (React, NodeJS, Express, Vite) | C++ | Python (FastAPI) | PHP | MySQL | HTML5 | CSS3 | Swift/SwiftUI | Docker | CLI/Bash | Wordpress
+* Languages/Tools: JavaScript/TypeScript (React, NodeJS, Express, Vite) | C++ | Python (FastAPI) | PHP | MySQL | HTML5 | CSS3 | Swift/SwiftUI | Docker | CLI/Bash | 32 Bit RISC-V Assembly | Wordpress
 
 ## 👷🏻 Current Role:
  Senior Software Engineering Associate at Digital Nest.
