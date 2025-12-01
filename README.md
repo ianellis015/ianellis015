@@ -9,7 +9,7 @@
 * Backend Engineering
 * Frontend Engineering
 * REST API
-* AI powered app development (OpenAI API)
+* AI powered app development
 * Database design
 * Languages/Tools: JavaScript/TypeScript (React, NodeJS, Express, Vite) | C++ | Python (FastAPI) | PHP | MySQL | HTML5 | CSS3 | Swift/SwiftUI | Docker | CLI/Bash | 32 Bit RISC-V Assembly | Wordpress
 
